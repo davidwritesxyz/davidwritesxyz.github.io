@@ -11,7 +11,7 @@ These are the summaries and notes of books I have read. I also keep a [Master Li
   <img src="thewillpowerinstinct/willpowerinstinct.png" style="width:19%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/thewillpowerinstinct/" class="hover:underline">
+    <a href="thewillpowerinstinct" class="hover:underline">
      The Willpower Instinct
     </a>
     </h3>

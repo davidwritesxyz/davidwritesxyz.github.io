@@ -2,8 +2,7 @@
   <img src="davidsquare.png" style="width:18%; height:auto;" />
   <div style="max-width:60%;">
     <h2 class="mb-0">Hey, I'm David</h2><br>
-    <p class="mt-0">I'm a tech enthusiast and writer.</p>
-    <p>If you are studying for IT certifications like RHCSA or RHCE then you can find detailed notes here.</p>
+    <p class="mt-0">I'm a Linux System Administrator and freelance writer.</p>
     <p>
       To contact me, <a href="mailto:tdavetech@gmail.com">send me an email</a>.
     </p>
