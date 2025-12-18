@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://davidwrites.xyz/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://davidwrites.xyz/articles/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/baremetal-to-proxmox-vm/</loc>
+    <loc>https://davidwrites.xyz/articles/baremetal-to-proxmox-vm/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/now/</loc>
+    <loc>https://davidwrites.xyz/now/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tech/</loc>
+    <loc>https://davidwrites.xyz/tech/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>https://davidwrites.xyz/notes/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
