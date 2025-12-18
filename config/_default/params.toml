@@ -15,7 +15,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 firebase = { enable = true, apiKey = "AIzaSyApsKLCbGb5fkkrzxABOtl3-OUuBcRPVsc", authDomain = "davidwrites-89dd7.firebaseapp.com", projectId = "davidwrites-89dd7", storageBucket = "davidwrites-89dd7.firebasestorage.app", messagingSenderId = "433139099634", appId = "1:433139099634:web:c14275555bd7171e6c6d6b", measurementId = "G-XX5507B82W" }
 fathomAnalytics = { }
-umamiAnalytics = { }
+umamiAnalytics = { websiteid = "60fe8af1-376f-4be3-8f62-d4f24d00a756", domain = "davidwrites.xyz", dataDomains = "davidwrites.xyz", scriptName = "https://cloud.umami.is/script.js", enableTrackEvent = true }
 selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
@@ -49,7 +49,6 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
 homepageImage = "/img/davidsquare.png"
-showSummary = false
 
 [article]
 showDate = true
