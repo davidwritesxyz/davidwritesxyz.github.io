@@ -22,13 +22,28 @@
     <item>
       <title>Now</title>
       <link>https://davidwrites.xyz/now/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://davidwrites.xyz/now/</guid>
-      <description>&lt;p&gt;This is a page to help me stay focused and keep track of what I am doing. It is also to show others what I am currently working on and thinking about. Credit goes to Derek Sivers for starting a &amp;ldquo;Now&amp;rdquo; page movement. Read about &amp;ldquo;Now&amp;rdquo; pages &lt;a
+      <description>&lt;p&gt;What I am up to &lt;a
   href=&#34;https://nownownow.com/about&#34;
     target=&#34;_blank&#34;
-  &gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+  &gt;Now&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am working on finding balance between different aspects of life. And aggressively saying no and cutting out things that take up time.&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;This week
+    &lt;div id=&#34;this-week&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-week&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;p&gt;Taper -5mg caffeine per day 4/7&lt;br&gt;
+Run 5 minutes per day 4/7&lt;br&gt;
+Study 15 minutes per day 3/7&lt;br&gt;
+Fast 14 hours per day 4/7&lt;/p&gt;</description>
       
     </item>
     
