@@ -5,20 +5,14 @@ description: 'Ansible Galaxy Roles, RHEL System Roles, and Role Structure'
 
 Ansible roles are fully-featured solutions to accomplish a task. Roles can be downloaded from Ansible Galaxy, built from scratch, or vendor created like RHEL System Roles. 
 
-Roles provide a reusable way to build a webserver, a database server, and more. 
+Roles provide a reusable way to build a webserver, a database server, and more. That way you can have a role handle tasks the same way on all of your server.
 
+To use a role, include it in your playbook with `include_role: role_name` or `import_role:role_name`
 
-- You can easily define a specific task in a role, and after defining it in a role, you can easily redistribute that and ensure that tasks are handled the same way, no matter where they are executed. 
-- Roles can be custom-made for specific environments, or default roles provided from Ansible Galaxy can be used.
+## Role Structure
+A role includes subdirectories that have everything needed to run the role. These include variables, handlers, templates, files, tasks, and information on how to use the role. Ansible automatically knows where to look in these directories to run a role.
 
-#### Understanding Ansible Roles
-- work with include files.
-- All the different components that you may use in a playbook are used in roles and stored in separate directories. 
-- While defining the role, you don't need to tell the role that it should look in some of these specific directories; it does that automatically. 
-- The only thing you need to do is tell your Ansible playbook that it should include a role.
-- Different components of the role are stored in different subdirectories. 
-
-Roles Sample Directory Structure:
+Here is an example:
 ```
     [ansible@control roles]$ tree testrole/
     testrole/
@@ -40,29 +34,23 @@ Roles Sample Directory Structure:
         `-- main.yml
 ```
 
+| Directory | Function                                          |
+| --------- | ------------------------------------------------- |
+| defaults  | Default variables that can be replaced            |
+| files     | Files needed by role tasks                        |
+| handlers  | Handlers used by tasks in the role                |
+| meta      | Dependencies, license, and maintainer information |
+| tasks     | Tasks for the role                                |
+| templates | Jinja2 template files                             |
+| tests     | Inventory and test file to test the role          |
+| vars      | Variable not meant to be overwritten              |
+Some things may not always be necessary and unused folders can be deleted to keep things clean.
 
-Role Directory Structure
-**defaults**
-- Default variables that may be overwritten by other variables
-**files**
-- Static files that are needed by role tasks
-**handlers**
-- Handlers for use in this role
-**meta**
-- metadata, such as dependencies, plus license and maintainer information
-**tasks**
-- Role task definitions
-**templates**
-- Jinja2 templates
-**tests**
-- Optional inventory and a test.yml file to test the role
-**vars**
-- Variables that are not meant to be overwritten
+Most of the role directories have a `main.yml` file. This is the the entrypoint to each of those directories. So when tasks are run for the playbook, it starts in tasks/main.yml then other task files can be referenced from there. 
 
-- Most of the role directories have a main.yml file. 
-- This is the entry-point YAML file that is used to define components in the role.
+## Where roles are stored
 
-#### Understanding Role Location
+# LEFT OFF HERE
 
 Roles can be stored in different locations:
 
@@ -370,7 +358,7 @@ and the context label is set to public_content_rw_t.
       command: restorecon -v /var/ftp/uploads
 ```
 
-
+## Ansible Galaxy
 Ansible Galaxy is a public library of Ansible content provided by community members. It can be browsed on the web at https://galaxy.ansible.com.
 
 The content includes collections and roles. Collections are groups of modules, roles, playbooks, and plugins the accomplish a certain task. Like setting up a web server. 
@@ -442,7 +430,7 @@ Remove a role:
 `ansible-galaxy install -r listing96.yaml` 
 `ansible-galaxy list`
 
-### Using RHEL System Roles
+## Using RHEL System Roles
 
 - Allows for a uniform approach while managing multiple RHEL versions
 - Red Hat provides RHEL System Roles. 

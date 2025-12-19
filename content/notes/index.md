@@ -5,7 +5,7 @@ cascade:
   showDate: false
 ---
 
-These are the summaries and notes of books I have read. I also keep a [Master List](masterlist) of all of the books I have read and a [Book Graveyard](bookgraveyard) of books I didn't finish.
+These are the summaries and notes of books I have read. 
 
 <div style="display:flex; gap:1rem; align-items:flex-start;">
   <img src="thewillpowerinstinct/willpowerinstinct.png" style="width:19%; height:auto;" />
