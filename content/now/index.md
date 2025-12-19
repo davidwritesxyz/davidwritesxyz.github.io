@@ -8,7 +8,7 @@ What I am up to [Now](https://nownownow.com/about).
 ### Quarterly Quests
 Get down to 190lbs.  
 ~~Finish website design and push to production.~~  
-Taper off of caffeine.
+Taper off of caffeine.  
 Build study habit up to 45 minutes per day.  
 ### What I am reading
 {{< gallery >}}
