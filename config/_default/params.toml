@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "github"
 defaultAppearance = "light"
 autoSwitchAppearance = false
 enableA11y = false
@@ -27,6 +27,7 @@ smartTOC = true
 highlightCurrentMenuArea = true
 mainSections = ["articles"]
 smartTOCHideUnfocusedChildren = true
+secondaryLogo = "/img/logo-dark.png"
 
 [header]
 layout = "basic"
@@ -35,7 +36,7 @@ layout = "basic"
 showMenu = true
 showCopyright = true
 showThemeAttribution = false
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
