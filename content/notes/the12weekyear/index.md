@@ -1,7 +1,7 @@
 ---
 title: 'The 12 Week Year'
 date: 2024-03-12
-description: "The 12 Week Year"
+description: "The 12 Week Year Book Summary"
 summary: "My notes from The 12 Week Year 8/10"
 ---
 <div style="display:flex; gap:1rem; align-items:flex-start;">

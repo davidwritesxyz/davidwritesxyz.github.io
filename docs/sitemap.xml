@@ -3,856 +3,723 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://davidwrites.xyz/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/articles/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/now/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/</loc>
-    <lastmod>2023-11-06T06:20:36-07:00</lastmod>
+    <loc>http://localhost:1313/now/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/bluefin-setup/</loc>
+    <loc>http://localhost:1313/notes/caffeineblues/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/desktop-yml/</loc>
+    <loc>http://localhost:1313/notes/thewillpowerinstinct/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/</loc>
+    <loc>http://localhost:1313/notes/nonviolentcommunication/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/</loc>
+    <loc>http://localhost:1313/notes/milliondollarweekend/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/management/</loc>
+    <loc>http://localhost:1313/notes/meditations/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/nat/</loc>
+    <loc>http://localhost:1313/notes/anythingyouwant/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/qos/</loc>
+    <loc>http://localhost:1313/notes/dopaminenation/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/podman/</loc>
+    <loc>http://localhost:1313/notes/goodinside/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/rhce-exam/</loc>
+    <loc>http://localhost:1313/notes/therelationshiphandbook/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/add-plausible-to-hugo-site/</loc>
+    <loc>http://localhost:1313/notes/the12weekyear/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/apache/</loc>
+    <loc>http://localhost:1313/notes/theblogstartup/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/calibre_server/</loc>
+    <loc>http://localhost:1313/notes/thepowerofpositivedogtraining/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/desktop/</loc>
+    <loc>http://localhost:1313/notes/thepsychologyofmoney/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/distrobox/</loc>
+    <loc>http://localhost:1313/notes/123magic/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/editing-foliate-highlights-with-vim/</loc>
+    <loc>http://localhost:1313/tech/bluefin-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/emailserver/</loc>
+    <loc>http://localhost:1313/tech/linux/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/gitea-setup/</loc>
+    <loc>http://localhost:1313/tech/networking/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/gitguide/</loc>
+    <loc>http://localhost:1313/tech/networking/management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/iphonemigrate/</loc>
+    <loc>http://localhost:1313/tech/networking/nat/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/libvirt/</loc>
+    <loc>http://localhost:1313/tech/networking/qos/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/obsidian-hugo-github-website-stack-ohg/</loc>
+    <loc>http://localhost:1313/tech/podman/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/obsidian-site-setup/</loc>
+    <loc>http://localhost:1313/tech/tools/add-plausible-to-hugo-site/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/pandoc/</loc>
+    <loc>http://localhost:1313/tech/ansible/awx-rpm-install/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/projects/</loc>
+    <loc>http://localhost:1313/tech/ansible/ad-hoc-ansible-commands/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/proxmox_setup/</loc>
+    <loc>http://localhost:1313/tech/linux/advanced-file-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/rsync/</loc>
+    <loc>http://localhost:1313/tech/linux/advanced-package-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/serial-in-on-linux/</loc>
+    <loc>http://localhost:1313/tech/linux/advanced-user-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/silverblue-1/</loc>
+    <loc>http://localhost:1313/tech/ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/skaffold/</loc>
+    <loc>http://localhost:1313/tech/podman/ansible-and-podman/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/tmuxbook/</loc>
+    <loc>http://localhost:1313/tech/ansible/ansible-builder/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/vagrant-what-is-it-for/</loc>
+    <loc>http://localhost:1313/tech/ansible/ansible-documentation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/vm-creation-using-ansible/</loc>
+    <loc>http://localhost:1313/tech/ansible/ansible-inventory/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/vs_codium/</loc>
+    <loc>http://localhost:1313/tech/ansible/ansible-playbooks/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/awx-rpm-install/</loc>
+    <loc>http://localhost:1313/tech/ansible/ansible-vault/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ad-hoc-ansible-commands/</loc>
+    <loc>http://localhost:1313/tech/networking/ansiblepuppetchef/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/advanced-file-management/</loc>
+    <loc>http://localhost:1313/tech/ansible/ansible.cfg/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/advanced-package-management/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/advanced-user-management/</loc>
+    <loc>http://localhost:1313/tech/linux/autofs/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/</loc>
+    <loc>http://localhost:1313/tech/linux/bash-shell/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/podman/ansible-and-podman/</loc>
+    <loc>http://localhost:1313/tech/linux/file-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ansible-builder/</loc>
+    <loc>http://localhost:1313/tech/linux/basic-package-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ansible-documentation/</loc>
+    <loc>http://localhost:1313/tech/linux/basic-user-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ansible-inventory/</loc>
+    <loc>http://localhost:1313/notes/bookgraveyard/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ansible-playbooks/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ansible-vault/</loc>
+    <loc>http://localhost:1313/tech/ansible/boot-process/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ansiblepuppetchef/</loc>
+    <loc>http://localhost:1313/tech/linux/boot-process-grub2-and-kernel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/ansible.cfg/</loc>
+    <loc>http://localhost:1313/tech/ansible/building-an-ansible-lab-with-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/autofs/</loc>
+    <loc>http://localhost:1313/tech/networking/ciscoacls/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/bash-shell/</loc>
+    <loc>http://localhost:1313/tech/networking/ciscocli/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/file-management/</loc>
+    <loc>http://localhost:1313/tech/networking/classfulipv4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/basic-package-management/</loc>
+    <loc>http://localhost:1313/tech/networking/cloudarchitecture/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/basic-user-management/</loc>
+    <loc>http://localhost:1313/tech/podman/containers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/notes/</loc>
+    <loc>http://localhost:1313/tech/networking/controllerbasednetworking/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/boot-process/</loc>
+    <loc>http://localhost:1313/tech/podman/convert-docker-compose-to-quadlets/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/boot-process-grub2-and-kernel/</loc>
+    <loc>http://localhost:1313/tech/ansible/deploying-files/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/building-an-ansible-lab-with-ansible/</loc>
+    <loc>http://localhost:1313/tech/networking/device-management-protocols/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</loc>
+    <loc>http://localhost:1313/tech/networking/dhcp-config/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ciscoacls/</loc>
+    <loc>http://localhost:1313/tech/networking/dhcp-snooping-and-arp-inspection/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ciscocli/</loc>
+    <loc>http://localhost:1313/tech/networking/ethernetlans/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/classfulipv4/</loc>
+    <loc>http://localhost:1313/tech/ansible/execution-environments/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/cloudarchitecture/</loc>
+    <loc>http://localhost:1313/tech/networking/extended-acls/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/new-setup/</loc>
+    <loc>http://localhost:1313/tech/ansible/getting-started-with-ansible-roles/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/consoling_in_to_mx80_from_linux/</loc>
+    <loc>http://localhost:1313/tech/ansible/handlers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/podman/containers/</loc>
+    <loc>http://localhost:1313/tech/ansible/host-name-patterns/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/controllerbasednetworking/</loc>
+    <loc>http://localhost:1313/tech/ansible/including-and-importing-files/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/podman/convert-docker-compose-to-quadlets/</loc>
+    <loc>http://localhost:1313/tech/linux/installation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/deploying-files/</loc>
+    <loc>http://localhost:1313/tech/linux/interaction/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/device-management-protocols/</loc>
+    <loc>http://localhost:1313/tech/networking/ip-services/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/dhcp-config/</loc>
+    <loc>http://localhost:1313/tech/networking/ip-transport-and-applications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/dhcp-snooping-and-arp-inspection/</loc>
+    <loc>http://localhost:1313/tech/networking/ipv6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/dns-and-time-synchronization/</loc>
+    <loc>http://localhost:1313/tech/networking/ipv6addressingandsubnetting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ethernetlans/</loc>
+    <loc>http://localhost:1313/tech/networking/ipv6configuration/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/execution-environments/</loc>
+    <loc>http://localhost:1313/tech/networking/ipv6routing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/extended-acls/</loc>
+    <loc>http://localhost:1313/tech/ansible/jinja2-templates/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/getting-started-with-ansible-roles/</loc>
+    <loc>http://localhost:1313/tech/ansible/lab-configuring-storage/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/handlers/</loc>
+    <loc>http://localhost:1313/tech/ansible/lab-managing-users/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/host-name-patterns/</loc>
+    <loc>http://localhost:1313/tech/ansible/lab-configure-playbook-with-custom-facts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</loc>
+    <loc>http://localhost:1313/tech/ansible/lab-install-and-enable-a-webserver/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/process-bookfusion-highlights/</loc>
+    <loc>http://localhost:1313/tech/ansible/lab-managing-the-boot-process-and-services/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</loc>
+    <loc>http://localhost:1313/tech/networking/lan-architecture/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/how-to-study-for-the-ccna-exam/</loc>
+    <loc>http://localhost:1313/tech/networking/l2-etherchannel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/including-and-importing-files/</loc>
+    <loc>http://localhost:1313/tech/linux/local-file-systems-and-swap/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/installation/</loc>
+    <loc>http://localhost:1313/tech/ansible/manage-users-and-groups-with-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/interaction/</loc>
+    <loc>http://localhost:1313/tech/ansible/managing-packages-repositories-and-subscriptions-with-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ip-services/</loc>
+    <loc>http://localhost:1313/tech/ansible/managing-partitions-and-lvm/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ip-transport-and-applications/</loc>
+    <loc>http://localhost:1313/tech/ansible/managing-services-with-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ipv6/</loc>
+    <loc>http://localhost:1313/tech/ansible/lab-managing-software-with-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ipv6addressingandsubnetting/</loc>
+    <loc>http://localhost:1313/notes/masterlist/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ipv6configuration/</loc>
+    <loc>http://localhost:1313/tech/linux/network-file-system-nfs/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ipv6routing/</loc>
+    <loc>http://localhost:1313/tech/linux/networking-network-devices-and-network-connections/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/jinja2-templates/</loc>
+    <loc>http://localhost:1313/tech/ansible/nfs-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/juniper_cli_basics/</loc>
+    <loc>http://localhost:1313/tech/ansible/optimizing-ansible-processing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/lab-configuring-storage/</loc>
+    <loc>http://localhost:1313/tech/networking/ospf-concepts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/lab-managing-users/</loc>
+    <loc>http://localhost:1313/tech/networking/ospfconfiguration/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/lab-configure-playbook-with-custom-facts/</loc>
+    <loc>http://localhost:1313/tech/networking/ospfnetworktypesandneighbors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/lab-install-and-enable-a-webserver/</loc>
+    <loc>http://localhost:1313/tech/linux/partitioning-mbr-and-gpt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/lab-managing-the-boot-process-and-services/</loc>
+    <loc>http://localhost:1313/tech/podman/podman-links/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/lan-architecture/</loc>
+    <loc>http://localhost:1313/tech/podman/podman-quadlets/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/l2-etherchannel/</loc>
+    <loc>http://localhost:1313/tech/linux/process-and-task-scheduling/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/learning-touch-typing/</loc>
+    <loc>http://localhost:1313/tech/linux/remove-a-filesystem-from-a-partition/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/local-file-systems-and-swap/</loc>
+    <loc>http://localhost:1313/tech/networking/restandjson/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/manage-users-and-groups-with-ansible/</loc>
+    <loc>http://localhost:1313/tech/ansible/rhce-practice-exam-lab/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/managing-packages-repositories-and-subscriptions-with-ansible/</loc>
+    <loc>http://localhost:1313/tech/linux/rhcsa-vagrant-lab-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/managing-partitions-and-lvm/</loc>
+    <loc>http://localhost:1313/tech/networking/router_operation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/managing-services-with-ansible/</loc>
+    <loc>http://localhost:1313/tech/networking/routeroperation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/lab-managing-software-with-ansible/</loc>
+    <loc>http://localhost:1313/tech/networking/lanrouting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/my-fedora-setup/</loc>
+    <loc>http://localhost:1313/tech/networking/rstpandetherchannel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/network-file-system-nfs/</loc>
+    <loc>http://localhost:1313/tech/networking/securing-network-devices/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/networking-network-devices-and-network-connections/</loc>
+    <loc>http://localhost:1313/tech/networking/security-architectures/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/nextcloud-on-rhel-based-systems/</loc>
+    <loc>http://localhost:1313/tech/linux/security-enhanced-linux/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/nfs-setup/</loc>
+    <loc>http://localhost:1313/tech/ansible/selinux-file-properties/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/optimizing-ansible-processing/</loc>
+    <loc>http://localhost:1313/tech/linux/shell-scripting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ospf-concepts/</loc>
+    <loc>http://localhost:1313/tech/networking/softwaredefinedaccess/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ospfconfiguration/</loc>
+    <loc>http://localhost:1313/tech/networking/spanningtreeprotocol/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/ospfnetworktypesandneighbors/</loc>
+    <loc>http://localhost:1313/tech/networking/static-routing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/partitioning-mbr-and-gpt/</loc>
+    <loc>http://localhost:1313/tech/networking/switchinterfaces/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/podman/podman-links/</loc>
+    <loc>http://localhost:1313/tech/networking/switching/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/podman/podman-quadlets/</loc>
+    <loc>http://localhost:1313/tech/networking/switchport-security-config/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/process-and-task-scheduling/</loc>
+    <loc>http://localhost:1313/tech/linux/system-initialization-message-logging-and-system-tuning/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/remove-a-filesystem-from-a-partition/</loc>
+    <loc>http://localhost:1313/tech/networking/tcpipbasic/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/resources-for-passing-ccna/</loc>
+    <loc>http://localhost:1313/tech/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/restandjson/</loc>
+    <loc>http://localhost:1313/tech/linux/the-linux-firewall/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/rhce-practice-exam-lab/</loc>
+    <loc>http://localhost:1313/tech/linux/the-secure-shell-service/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/rhcsa-vagrant-lab-setup/</loc>
+    <loc>http://localhost:1313/tech/linux/thin-provisioning/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/router_operation/</loc>
+    <loc>http://localhost:1313/tech/linux/time-synchronization/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/routeroperation/</loc>
+    <loc>http://localhost:1313/tech/networking/troubleshootingrouting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/lanrouting/</loc>
+    <loc>http://localhost:1313/tech/ansible/using-ansible-tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/rstpandetherchannel/</loc>
+    <loc>http://localhost:1313/tech/ansible/using-loops-and-items/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/securing-network-devices/</loc>
+    <loc>http://localhost:1313/tech/ansible/troubleshooting-in-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/security-architectures/</loc>
+    <loc>http://localhost:1313/tech/ansible/using-variables-in-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/security-enhanced-linux/</loc>
+    <loc>http://localhost:1313/tech/ansible/using-when-to-run-tasks-conditionally/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</loc>
+    <loc>http://localhost:1313/tech/linux/virtual-data-optimizer-vdo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/ansible/selinux-file-properties/</loc>
+    <loc>http://localhost:1313/tech/networking/vlans/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/linux/shell-scripting/</loc>
+    <loc>http://localhost:1313/tech/networking/wanarchitecture/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/tools/silverblue/</loc>
+    <loc>http://localhost:1313/tech/networking/wansandiprouting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/softwaredefinedaccess/</loc>
+    <loc>http://localhost:1313/tech/networking/wirelessarchitectures/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/spanningtreeprotocol/</loc>
+    <loc>http://localhost:1313/tech/networking/wireless_lan/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/static-routing/</loc>
+    <loc>http://localhost:1313/tech/networking/wirelessnetworking/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/switchinterfaces/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/switching/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/switchport-security-config/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/linux/system-initialization-message-logging-and-system-tuning/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/tcpipbasic/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/linux/the-linux-firewall/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/linux/the-secure-shell-service/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/linux/thin-provisioning/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/linux/time-synchronization/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/tools/toggle_poe/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/troubleshootingrouting/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/ansible/using-ansible-tags/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/ansible/using-loops-and-items/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/ansible/troubleshooting-in-ansible/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/tools/using-vagrant-on-linux/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/ansible/using-variables-in-ansible/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/ansible/using-when-to-run-tasks-conditionally/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/tools/vimguide/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/linux/virtual-data-optimizer-vdo/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/vlans/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/wanarchitecture/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/wansandiprouting/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/tools/what-to-learn-after-ccna/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/wirelessarchitectures/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/wireless_lan/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/wirelessnetworking/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/networking/wireless_security/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/tools/using-man-pages/</loc>
+    <loc>http://localhost:1313/tech/networking/wireless_security/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
