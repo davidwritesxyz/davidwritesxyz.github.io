@@ -8,7 +8,7 @@ summary: "My notes from 123 Magic"
   <img src="123magic.png" style="width:25%; height:auto;" />
   <div>
     <h2 class="mb-1">
-    <a href="/notes/non-fiction/123magic/" class="hover:underline">
+    <a href="/notes/123magic/" class="hover:underline">
     </a>
     </h2>
     <div class="text-2xl">

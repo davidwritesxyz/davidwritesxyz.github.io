@@ -8,7 +8,7 @@ summary: "My notes from The Relationship Handbook 10/10"
   <img src="therelationshiphandbook.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/non-fiction/therelationshiphandbook/" class="hover:underline">
+    <a href="/notes/therelationshiphandbook/" class="hover:underline">
     </a>
     </h3>
     <div class="text-2xl">

@@ -8,7 +8,7 @@ summary: "My notes from The 12 Week Year 8/10"
   <img src="the12weekyear.png" style="width:25%; height:auto;" />
   <div>
     <h2 class="mb-1">
-    <a href="/notes/non-fiction/the12weekyear/" class="hover:underline">
+    <a href="/notes/the12weekyear/" class="hover:underline">
     </a>
     </h2>
     <div class="text-2xl">

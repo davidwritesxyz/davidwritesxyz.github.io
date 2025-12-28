@@ -8,7 +8,7 @@ summary: "My notes from Meditations 9/10"
   <img src="meditations.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/non-fiction/meditations/" class="hover:underline">
+    <a href="/notes/meditations/" class="hover:underline">
     </a>
     </h3>
     <div class="text-2xl">

@@ -26,3 +26,7 @@ Search for keyword and assess the competition. What sites are posting about simi
 
 ## Potential headlines
 Write down 10-30 potential headlines with the keyword in it:
+
+"Converting a Wordpress Docker Compose File to Podman Quadlets"
+
+"

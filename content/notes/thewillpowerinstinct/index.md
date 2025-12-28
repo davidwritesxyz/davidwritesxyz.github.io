@@ -8,7 +8,7 @@ summary: "My notes from The Willpower Instinct"
   <img src="willpowerinstinct.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/non-fiction/thewillpowerinstinct/" class="hover:underline">
+    <a href="/notes/thewillpowerinstinct/" class="hover:underline">
     </a>
     </h3>
     <div class="text-2xl">
@@ -35,7 +35,7 @@ Long term goal to focus on. Goals and desires.
 
 ### We have one brain but two minds:
 
-The version of us that acts on impulse and seeks immediate gratification
+The version of us that acts on impulse and seeks immediate gratification.
 
 The version of us that controls our impulses and delays gratification to protect our long-term goals. 
 
@@ -49,7 +49,9 @@ To have more self-control, you first need to develop more self-awareness.
 
 Try to analyze when decisions were made that either supported or undermined your goals. Trying to keep track of your choices will also reduce the number of decisions you make while distracted.
  
-Watch how the process of giving in to your impulses happens. You don’t even need to set a goal to improve your self-control yet. See if you can catch yourself earlier and earlier in the process, noticing what thoughts, feelings, and situations are most likely to prompt the impulse. What do you think or say to yourself that makes it more likely that you will give in?
+Watch how the process of giving in to your impulses happens. You don’t even need to set a goal to improve your self-control yet. See if you can catch yourself earlier and earlier in the process, noticing what thoughts, feelings, and situations are most likely to prompt the impulse. 
+
+What do you think or say to yourself that makes it more likely that you will give in?
  
 Meditation helps with a wide range of self-control skills, including attention, focus, stress management, impulse control, and self-awareness. Also more gray matter and bloodflow in the prefrontal cortex, as well as regions of the brain that support self-awareness.
 
@@ -59,7 +61,9 @@ Track your willpower choices. For at least one day, try to notice every decision
 
 We’re used to seeing temptation and trouble outside of ourselves: the dangerous doughnut, the sinful cigarette, the enticing Internet. But self-control points the mirror back at ourselves, and our inner worlds of thoughts, desires, emotions, and impulses. 
 
-Identify the inner impulse that needs to be restrained. What is the thought or feeling that makes you want to do whatever it is you don’t want to do? If you aren’t sure, try some field observation. Next time you’re tempted, turn your attention inward.
+Identify the inner impulse that needs to be restrained. What is the thought or feeling that makes you want to do whatever it is you don’t want to do? 
+
+If you aren’t sure, try some field observation. Next time you’re tempted, turn your attention inward.
  
 Studies also show that people with higher heart rate variability are better at ignoring distractions, delaying gratification, and dealing with stressful situations. They are also less likely to give up on difficult tasks, even when they initially fail or receive critical feedback.
 
@@ -110,7 +114,9 @@ Fatigue should no longer be considered a physical event but rather a sensation o
 
 Just as the brain may tell the body’s muscles to slow down when it fears physical exhaustion, the brain may put the brakes on its own energy-expensive exercise of the prefrontal cortex. This doesn’t mean we’re out of willpower; we just need to muster up the motivation to use it.
 
-All too often, we use the first feeling of fatigue as a reason to skip exercise, snap at our spouses, procrastinate a little longer, or order a pizza instead of cooking a healthy meal. To be sure, the demands of life really do drain our willpower, and perfect self-control is a fool’s quest. But you may have more willpower than the first impulse to give in would suggest. The next time you find yourself “too tired” to exert self-control, challenge yourself to go beyond that first feeling of fatigue. (Keep in mind that it’s also possible to overtrain—and if you find yourself constantly feeling drained, you may need to consider whether you have been running yourself to real exhaustion.)
+All too often, we use the first feeling of fatigue as a reason to skip exercise, snap at our spouses, procrastinate a little longer, or order a pizza instead of cooking a healthy meal. To be sure, the demands of life really do drain our willpower, and perfect self-control is a fool’s quest. 
+
+But you may have more willpower than the first impulse to give in would suggest. The next time you find yourself “too tired” to exert self-control, challenge yourself to go beyond that first feeling of fatigue. (Keep in mind that it’s also possible to overtrain—and if you find yourself constantly feeling drained, you may need to consider whether you have been running yourself to real exhaustion.)
 
 The mere promise that practice would improve performance on a difficult task helped the students push past willpower exhaustion.
 
@@ -148,7 +154,9 @@ A willpower workout. Exercise your self-control muscle by picking one thing to d
 
 Find your biggest want power—the motivation that gives you strength when you feel weak—bring it to mind whenever you find yourself most tempted to give in or give up.
 
-Moral licensing. When you do something good, you feel good about yourself. This means you’re more likely to trust your impulses—which often means giving yourself permission to do something bad.
+### **Moral licensing.** 
+
+When you do something good, you feel good about yourself. This means you’re more likely to trust your impulses—which often means giving yourself permission to do something bad.
 
 Moral licensing doesn’t just give us permission to do something bad; it also lets us off the hook when we’re asked to do something good.
 
@@ -164,9 +172,13 @@ Is this a harmless reward, or is it sabotaging your larger willpower goals? 
 
 Making progress on a goal motivates people to engage in goal-sabotaging behavior.
 
-When you make progress toward your long-term goal, your brain—with its mental checklist of many goals—turns off the mental processes that were driving you to pursue your long-term goal. It will then turn its attention to the goal that has not yet been satisfied—the voice of self-indulgence. Psychologists call this goal liberation. The goal you’ve been suppressing with your self-control is going to become stronger, and any temptation will become more tempting.
+When you make progress toward your long-term goal, your brain—with its mental checklist of many goals—turns off the mental processes that were driving you to pursue your long-term goal. It will then turn its attention to the goal that has not yet been satisfied—the voice of self-indulgence. 
 
-Although it runs counter to everything we believe about achieving our goals, focusing on progress can hold us back from success. That’s not to say that progress itself is a problem. The problem with progress is how it makes us feel—and even then, it’s only a problem if we listen to the feeling instead of sticking to our goals. Progress can be motivating, and even inspire future self-control, but only if you view your actions as evidence that you are committed to your goal. In other words, you need to look at what you have done and conclude that you must really care about your goal, so much so that you want to do even more to reach it. This perspective is easy to adopt; it’s just not our usual mind-set. More typically, we look for the reason to stop.
+Psychologists call this goal liberation. The goal you’ve been suppressing with your self-control is going to become stronger, and any temptation will become more tempting.
+
+Focusing on progress can hold us back from success. That’s not to say that progress itself is a problem. The problem with progress is how it makes us feel—and even then, it’s only a problem if we listen to the feeling instead of sticking to our goals. Progress can be motivating, and even inspire future self-control, but only if you view your actions as evidence that you are committed to your goal. 
+
+You need to look at what you have done and conclude that you must really care about your goal, so much so that you want to do even more to reach it. This perspective is easy to adopt; it’s just not our usual mind-set. More typically, we look for the reason to stop.
 
 The next time you find yourself using past good behavior to justify indulging, pause and remember the why.
 
@@ -174,17 +186,23 @@ Sometimes the mind gets so excited about the opportunity to act on a goal, it mi
 
 We wrongly but persistently expect to make different decisions tomorrow than we do today.
 
-As you go about making decisions related to your willpower challenge, notice if the promise of future good behavior comes up in your thinking. Do you tell yourself you will make up for today’s behavior tomorrow? What effect does this have on your self-control today? For extra credit, keep paying attention—all the way to tomorrow. Do you actually do what you said you would, or does the cycle of “indulge today, change tomorrow” begin again?
+As you go about making decisions related to your willpower challenge, notice if the promise of future good behavior comes up in your thinking. Do you tell yourself you will make up for today’s behavior tomorrow? 
+
+What effect does this have on your self-control today? 
+
+Do you actually do what you said you would, or does the cycle of “indulge today, change tomorrow” begin again?
 
 We wrongly predict we will have much more free time in the future than we do today.
 
-Aim to reduce the variability of your behavior day to day. View every choice you make as a commitment to all future choices. So instead of asking, “Do I want to eat this candy bar now?” ask yourself, “Do I want the consequences of eating a candy bar every afternoon for the next year?” Or if you’ve been putting something off that you know you should do, instead of asking “Would I rather do this today or tomorrow?” ask yourself, “Do I really want the consequences of always putting this off?”
+Aim to reduce the variability of your behavior day to day. View every choice you make as a commitment to all future choices. 
+
+So instead of asking, “Do I want to eat this candy bar now?” ask yourself, “Do I want the consequences of eating a candy bar every afternoon for the next year?” Or if you’ve been putting something off that you know you should do, instead of asking “Would I rather do this today or tomorrow?” ask yourself, “Do I really want the consequences of always putting this off?”
 
 Using a daily rule also helps you see through the illusion that what you do tomorrow will be totally different from what you do today.
 
 Is there a rule you can live with that will help you end the kind of inner debate that talks you right out of your goals?
 
-The halo effect
+### The halo effect
 
 When we want permission to indulge, we’ll take any hint of virtue as a justification to give in.
 

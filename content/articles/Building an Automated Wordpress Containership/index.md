@@ -7,6 +7,9 @@ summary: ""
 draft: true
 ---
 
+## Converting compose.yml to quadlets
+
+
 Set up .image quadlets
 Yeah you just specify the name of the .image file in the .container file
 And quadlet wires it up as a dependency
@@ -19,18 +22,12 @@ Daemon reload handler
 
 Set up array for pod
 
-How to run podman has another user
-
-uid=$(id -u seal)  
-sudo systemd-run --property User=seal --property Requires=user@${uid}.service --property After=user@${uid}.service --property Environment=XDG_RUNTIME_DIR=/run/user/${uid} --collect --pipe --quiet --wait podman ps
-
-```
-sudo systemd-run --property User=seal --property Requires=user@${uid}.service --property After=user@${uid}.service --property Environment=XDG_RUNTIME_DIR=/run/user/${uid} --collect --pipe --quiet --wait podman ps
-```
+How to run podman has another user:  
+`sudo -u {{ podman_user }} bash -li`
 
 Dedicate a private git repo just for that content and version it and make it easy for the dev to spin up a test instance for himself and use tagged references to deploy to prod from git
 
-We get two volumes, one for html annd one for the SQL database. 
+We get two volumes, one for html and one for the SQL database. 
 ```bash
 $ podman volume ls
 DRIVER      VOLUME NAME

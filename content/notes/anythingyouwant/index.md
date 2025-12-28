@@ -8,7 +8,7 @@ summary: "My notes from Anything You Want"
   <img src="anythingyouwant.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/non-fiction/anythingyouwant/" class="hover:underline">
+    <a href="/notes/anythingyouwant/" class="hover:underline">
     </a>
     </h3>
     <div class="text-2xl">

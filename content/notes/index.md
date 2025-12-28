@@ -210,6 +210,22 @@ These are the summaries and notes of books I have read.
     </p>
   </div>
 </div>
+<div style="display:flex; gap:1rem; align-items:flex-start;">
+  <img src="tribes/tribes.png" style="width:19%; height:auto;" />
+  <div>
+    <h3 class="mb-1">
+    <a href="/notes/tribes/" class="hover:underline">
+     Tribes
+    </a>
+    </h3>
+    <div class="text-lg">
+    ★★★☆☆
+    </div>
+    <p>
+     Quick read about leading your own tribe. And why there is a shortage of leaders in every field. I will look over these notes every time I need a reminder of how to lead others. 
+    </p>
+  </div>
+</div>
 
 <div style="display:flex; gap:1rem; align-items:flex-start;">
   <img src="theblogstartup/blogstartup.png" style="width:19%; height:auto;" />

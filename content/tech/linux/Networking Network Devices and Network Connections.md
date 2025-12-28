@@ -86,7 +86,7 @@ ip addr
 
 ### Classful Network Addressing
 
-See [classfulipv4](../networking/classfulipv4.md)
+See [classfulipv4](../networking/CCNA%20Notes/classfulipv4.md)
 
 ### IPv6 Address
 
@@ -121,7 +121,7 @@ Tools:
 `cat /etc/protocols`
 ### TCP and UDP Protocols
 
-See [IP Transport and Applications](../networking/IP%20Transport%20and%20Applications.md) and [tcp_ip_basic](../networking/CCNA%20Notes/tcp_ip_basic.md)
+See [IP Transport and Applications](../networking/CCNA%20Notes/IP%20Transport%20and%20Applications.md) and [tcp_ip_basic](../networking/CCNA%20Notes/tcp_ip_basic.md)
 
 ### ICMP
 
@@ -258,7 +258,7 @@ Naming rules for devices are governed by udevd service based on:
 
 ## Understanding Hosts Table
 
-See [DNS and Time Synchronization](../tools/DNS%20and%20Time%20Synchronization.md)
+See [DNS](../networking/DNS.md)
 
 */etc/hosts* file
 - Table used to maintain hostname to IP mapping for systems on the local network, allowing us to access a system by simply employing its hostname.
