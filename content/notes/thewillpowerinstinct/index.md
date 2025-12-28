@@ -8,8 +8,6 @@ summary: "My notes from The Willpower Instinct"
   <img src="willpowerinstinct.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/thewillpowerinstinct/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-2xl">
     ★★★★★

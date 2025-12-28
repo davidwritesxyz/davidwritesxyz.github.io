@@ -9,8 +9,6 @@ summary: "My notes from Million Dollar Weekend"
   <img src="milliondollarweekend.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/milliondollarweekend/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-2xl">
     ★★★★☆

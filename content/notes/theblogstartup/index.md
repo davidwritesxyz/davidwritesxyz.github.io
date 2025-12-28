@@ -8,8 +8,6 @@ summary: "My notes from The Blog Startup 8/10"
   <img src="blogstartup.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/theblogstartup/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-2xl">
     ★★★☆☆

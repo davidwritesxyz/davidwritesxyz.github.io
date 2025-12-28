@@ -11,8 +11,6 @@ featureimage: psychologyofmoney.png
   <img src="psychologyofmoney.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/thepsychologyofmoney/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-2xl">
     ★★★★☆

@@ -8,8 +8,6 @@ summary: "My notes from Caffeine Blues"
   <img src="caffeineblues.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/caffeineblues/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-yellow-400 text-2xl">
     ★★★★☆

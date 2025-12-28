@@ -11,8 +11,6 @@ featureimage: nonviolentcommunication.png
   <img src="nonviolentcommunication.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/nonviolentcommunication/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-2xl">
     ★★★★★
@@ -413,8 +411,8 @@ Spiritual Communion
 
 # Books mentioned:
 
-How to Make Yourself Miserable, Dan Greenburg 
-The Color Purple, Alice Walker
-Building a Peace System, Robert Irwin
-The Revolution in Psychiatry, Ernest Becker
-The Secret of Staying in Love, John Powell
+How to Make Yourself Miserable, Dan Greenburg   
+The Color Purple, Alice Walker  
+Building a Peace System, Robert Irwin  
+The Revolution in Psychiatry, Ernest Becker  
+The Secret of Staying in Love, John Powell  

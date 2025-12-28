@@ -8,8 +8,6 @@ summary: "My notes from Tribes"
   <img src="tribes.png" style="width:25%; height:auto;" />
   <div>
     <h3 class="mb-1">
-    <a href="/notes/non-fiction/tribes/" class="hover:underline">
-    </a>
     </h3>
     <div class="text-2xl">
     ★★★☆☆
@@ -140,10 +138,10 @@ The first thing a leader can focus on is the act of tightening the tribe.
 
 It’s tempting to make the tribe bigger, to get more members, to spread the word. This pales, however, when juxtaposed with the effects of a tighter tribe. A tribe that communicates more quickly, with alacrity and emotion, is a tribe that thrives.
 
-It’s uncomfortable to stand up in front of strangers.
-It’s uncomfortable to propose an idea that might fail.
-It’s uncomfortable to challenge the status quo.
-It’s uncomfortable to resist the urge to settle.
+It’s uncomfortable to stand up in front of strangers.  
+It’s uncomfortable to propose an idea that might fail.  
+It’s uncomfortable to challenge the status quo.  
+It’s uncomfortable to resist the urge to settle.  
 
 When you identify the discomfort, you’ve found the place where a leader is needed.
 
@@ -193,9 +191,9 @@ Exclude outsiders.
 
 Tearing others down is never as helpful to a movement as building your followers up.
 
-The secret of being wrong isn’t to avoid being wrong!
-The secret is being willing to be wrong.
-The secret is realizing that wrong isn’t fatal.
+The secret of being wrong isn’t to avoid being wrong!  
+The secret is being willing to be wrong.  
+The secret is realizing that wrong isn’t fatal.  
 
 The desire to fail on the way to reaching a bigger goal is the untold secret of success.
 
@@ -205,7 +203,7 @@ The tactics of leadership are easy. The art is the diffcult part.
 
 Leadership comes when your hope and your optimism are matched with a concrete vision of the future and a way to get there. People won’t follow you if they don’t believe you can get to where you say you’re going.
 
-Leaders challenge the status quo.  
+Leaders challenge the status quo.   
 Leaders create a culture around their goal and involve others in that culture.  
 Leaders have an extraordinary amount of curiosity about the world they’re trying to change. 
 Leaders use charisma (in a variety of forms) to attract and motivate followers.  
