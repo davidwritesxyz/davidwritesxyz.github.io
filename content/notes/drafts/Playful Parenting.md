@@ -36,7 +36,7 @@ Signs of isolation and powerlessness.
 - play is wilder than usual, or more reckless.
 - Seem unable to play happily, and instead resort to hiding or attacking or annoying you.
 - Just going through the motions of life, without any real joy or spark.
-- Repeating the same words or games over and over without any fresh ideas and without having much fun.
+- Repeating the same words or games over and over without any fresh ide as and without having much fun.
 
 Play is one of the best ways to engage with children, pulling them out of emotional shutdown or misbehavior, to a place of connection and confidence.
 
