@@ -1,11 +1,12 @@
 ---
 draft: false
-date: 2026-01-02
+date: 2026-01-01
 title: Self Massage for Vertigo and Migraines
 description: "Self Massage for Vertigo and Migraines"
 tags: ["articles"]
 summary: "Self Massage for Vertigo and Migraines"
 ---
+
 ![](featured.png)
 
 Muscle tension can cause an insane amount of symptoms in the head and neck region:  
@@ -49,7 +50,7 @@ Tight scalenes can pull the first rib up into the collar bone and squeeze blood 
 
 It's worth starting here because scalenes can cause so many other muscles to also be tense.
 
-**Common causes for tight scalene muscles**
+**Common causes for tight scalene muscles**  
 {{< icon "check" >}} Poor breathing mechanics (breathing too much with accessory breathing muscles instead of diaphragm)  
 {{< icon "check" >}} Hyperventilating   
 {{< icon "check" >}} Heavy coughing or sneezing  
@@ -92,7 +93,7 @@ Pinch and rub the big muscle you feel on the front of your neck when you turn yo
 {{< icon "check" >}} Migraines   
 {{< icon "check" >}} Sore neck  
 
-**Common causes for tight trapezius muscles**
+**Common causes for tight trapezius muscles**    
 {{< icon "check" >}} slouched posture while seated  
 {{< icon "check" >}} forward head  
 {{< icon "check" >}} tight pecks  
@@ -107,18 +108,18 @@ Purposefully let your shoulders drop down multiple times during the day. This ar
 ![](spleniuscervicis.png)
 
 **Symptoms**  
-{{< icon "check" >}} blurred vision
-{{< icon "check" >}} migraines
-{{< icon "check" >}} visual disturbances
+{{< icon "check" >}} blurred vision  
+{{< icon "check" >}} migraines  
+{{< icon "check" >}} visual disturbances  
 
 This muscle bends, flexes, and twists the neck. 
 
-**Common causes for tight splenius cervicis muscles**   
-{{< icon "check" >}} lounging with head propped at an angle 
-{{< icon "check" >}} pulling excessive weight  
-{{< icon "check" >}} cold exposure with relaxed breathing  
-{{< icon "check" >}} forward-­head posture 
-{{< icon "check" >}} whiplash
+**Common causes for tight splenius cervicis muscles**    
+{{< icon "check" >}} lounging with head propped at an angle  
+{{< icon "check" >}} pulling excessive weight    
+{{< icon "check" >}} cold exposure with relaxed breathing    
+{{< icon "check" >}} forward-­head posture   
+{{< icon "check" >}} whiplash  
 
 **What you should do**
 Fix underlying posture issues and [learn to relax](https://www.health.harvard.edu/staying-healthy/try-this-progressive-muscle-relaxation-for-sleep).  Another lacrosse-ball-to-wall spot.
@@ -126,27 +127,27 @@ Fix underlying posture issues and [learn to relax](https://www.health.harvard.ed
 ### Suboccipital
 ![](suboccipital.png)
 
-**Symptoms**
-{{< icon "check" >}} blurred vision
-{{< icon "check" >}} migraines
-{{< icon "check" >}} visual disturbances
+**Symptoms**  
+{{< icon "check" >}} blurred vision  
+{{< icon "check" >}} migraines  
+{{< icon "check" >}} visual disturbances  
 
-**Common causes for tight suboccipital muscles** 
-{{< icon "check" >}} whiplash  
-{{< icon "check" >}} forward-head posture  
-{{< icon "check" >}} emotional tension  
-{{< icon "check" >}} postural stresses  
-{{< icon "check" >}} worry
+**Common causes for tight suboccipital muscles**   
+{{< icon "check" >}} whiplash    
+{{< icon "check" >}} forward-head posture    
+{{< icon "check" >}} emotional tension    
+{{< icon "check" >}} postural stresses    
+{{< icon "check" >}} worry  
 
-**What you should do**
+**What you should do**  
 Work on your posture and try to learn healthy ways to cope with stress. Use your fingers to rub this area throughout the day.
 ### Temporalis
 ![](temporalis.png)
 
-**Symptoms**  
-{{< icon "check" >}} Migraines  
+**Symptoms**    
+{{< icon "check" >}} Migraines    
 
-**Common causes for tight temporalis muscles**
+**Common causes for tight temporalis muscles**  
 
 **Sources:**
 - https://books.google.com/books/about/Travell_Simons_Myofascial_Pain_and_Dysfu.html?id=sU0XupX7DGsC
