@@ -14,6 +14,6 @@ I am going to read, write, and breath quitting caffeine until I'm off of it and 
 
 ### What I am reading
 {{< gallery >}}
-  <img src="easywaytoquitcaffeine.png" class="grid-w20" />
+  <img src="thepractice.png" class="grid-w20" />
 {{< /gallery >}}
 
