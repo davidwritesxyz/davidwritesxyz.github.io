@@ -40,7 +40,9 @@ Avoid anything that feels weird or gives you "bad pain". And as always, consult 
 
 ## Tight muscles and their symptoms
 ### Scalenes
-![](scalenes.png)
+{{< gallery >}}
+  <img src="scalenes.png" class="grid-w50" />
+{{< /gallery >}}
 
 **Symptoms of tight scalene muscles**  
 {{< icon "check" >}} Numbness  
@@ -65,7 +67,9 @@ Work on your [posture](https://www.youtube.com/watch?v=OQhqv_0d-nw), such as kee
 Massage the muscles in the front and side of the neck, being careful to avoid pulses and anything that feels weird. Do this throughout the day to relax these muscles. 
 
 ### Sternocleidomastoid 
-![](Sternocleidomastoid.png)
+{{< gallery >}}
+  <img src="Sternocleidomastoid.png" class="grid-w50" />
+{{< /gallery >}}
 
 **Symptoms of tight sternocleidomastoid muscles**  
 {{< icon "check" >}} Vertigo  
@@ -90,7 +94,10 @@ This can also cause a referred spasm in the muscle that surrounds the eye. Leadi
 **What you should do**
 Pinch and rub the big muscle you feel on the front of your neck when you turn your head. And work on your breathing and posture. 
 ### Trapezius
-![](trapezius.png)
+{{< gallery >}}
+  <img src="trapezius.png" class="grid-w50" />
+{{< /gallery >}}
+
 **Symptoms of tight trapezius muscles**  
 {{< icon "check" >}} Migraines   
 {{< icon "check" >}} Sore neck  
@@ -107,7 +114,9 @@ Pinch and rub the big muscle you feel on the front of your neck when you turn yo
 Purposefully let your shoulders drop down multiple times during the day. This area is good to massage with a lacrosse ball up against a wall.
 
 ### Splenius cervicis
-![](spleniuscervicis.png)
+{{< gallery >}}
+  <img src="spleniuscervicis.png" class="grid-w50" />
+{{< /gallery >}}
 
 **Symptoms of tight splenius cervicis muscles**  
 {{< icon "check" >}} Blurred vision  
@@ -127,7 +136,9 @@ This muscle bends, flexes, and twists the neck.
 Fix underlying posture issues and [learn to relax](https://www.health.harvard.edu/staying-healthy/try-this-progressive-muscle-relaxation-for-sleep).  Another lacrosse-ball-to-wall spot.
 
 ### Suboccipital
-![](suboccipital.png)
+{{< gallery >}}
+  <img src="suboccipital.png" class="grid-w50" />
+{{< /gallery >}}
 
 **Symptoms of tight suboccipital muscles**  
 {{< icon "check" >}} Blurred vision  
@@ -144,7 +155,10 @@ Fix underlying posture issues and [learn to relax](https://www.health.harvard.ed
 **What you should do**  
 Work on your posture and try to learn healthy ways to cope with stress. Use your fingers to rub this area throughout the day.
 ### Temporalis
-![](temporalis.png)
+{{< gallery >}}
+  <img src="temporalis.png" class="grid-w50" />
+{{< /gallery >}}
+
 
 **Symptoms of tight temporalis muscles**    
 {{< icon "check" >}} Migraines    
