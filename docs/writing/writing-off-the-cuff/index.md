@@ -1,4 +1,4 @@
-# 
+# Writing off the Cuff
 
 My favorite and by far easiest method of writing is writing off the cuff. You get your thoughts down and spring new thoughts to life. You are finding out what you know without referencing materials.
 

@@ -1,6 +1,7 @@
 ---
 title: How to Reduce Headaches Naturally
 description: "How to reduce headaches naturally by relaxing tense muscles."
+featured_image: images/headache.png
 ---
 
 ![](../../images/headache.png)

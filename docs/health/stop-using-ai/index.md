@@ -1,5 +1,7 @@
 # Why I Stopped Using AI so Much
 
+t: true
+---
 ## Benefits of troubleshooting on the web BEFORE you use AI:
 
 * You run into a lot of cool websites

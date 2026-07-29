@@ -1,9 +1,9 @@
-+++ 
-type = " "
-categories = ["recipes"] 
-description = "Easy Mango Salsa Quinoa Bowl" 
-title = "Easy Mango Salsa Quinoa Bowl" 
-+++
+---
+description: "Easy Mango Salsa Quinoa Bowl" 
+title: "Easy Mango Salsa Quinoa Bowl" 
+featured_image: images/Pasted%20image%2020241021100911%201.png
+---
+
 ![](../../images/Pasted%20image%2020241021100911%201.png)
 ## Ingredients
 

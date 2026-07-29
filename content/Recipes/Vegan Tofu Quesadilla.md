@@ -1,9 +1,9 @@
-+++ 
-type = " "
-categories = ["recipes"] 
-description = "Vegan Tofu Quesadilla" 
-title = "Vegan Tofu Quesadilla" 
-+++
+---
+description: "Vegan Tofu Quesadilla" 
+title: "Vegan Tofu Quesadilla" 
+featured_image: images/Pasted%20image%2020241021094000%201.png
+---
+
 ![](../../images/Pasted%20image%2020241021094000%201.png)
 
 Super firm tofu

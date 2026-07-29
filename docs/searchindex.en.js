@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "David Writes",
-    "content": "Why I Stopped Using AI so Much\rSome benefits of not using AI\rThe Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\r7 Steps to Get Back on a NoFap Streak Immediately\r7 Steps to Get Back on a NoFap Streak Immediately\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.\rMy Journey With Addiction\rMy Journey With Addiction",
-    "description": "Why I Stopped Using AI so Much\rSome benefits of not using AI\rThe Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\r7 Steps to Get Back on a NoFap Streak Immediately\r7 Steps to Get Back on a NoFap Streak Immediately\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.\rMy Journey With Addiction\rMy Journey With Addiction",
+    "content": "The Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\r7 Steps to Get Back on a NoFap Streak Immediately\r7 Steps to Get Back on a NoFap Streak Immediately\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.\rMy Journey With Addiction\rMy Journey With Addiction",
+    "description": "The Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\r7 Steps to Get Back on a NoFap Streak Immediately\r7 Steps to Get Back on a NoFap Streak Immediately\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.\rMy Journey With Addiction\rMy Journey With Addiction",
     "tags": [],
     "title": "Health",
     "uri": "/health/"
@@ -73,8 +73,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "David Writes",
-    "content": "Nat Eliason’s SEO course\rNat Eliason’s SEO course",
-    "description": "Nat Eliason’s SEO course\rNat Eliason’s SEO course",
+    "content": "Nat Eliason’s SEO course\rNat Eliason’s SEO course\rWriting off the Cuff\rDefeating writers block. Writing without a purpose.",
+    "description": "Nat Eliason’s SEO course\rNat Eliason’s SEO course\rWriting off the Cuff\rDefeating writers block. Writing without a purpose.",
     "tags": [],
     "title": "Writing",
     "uri": "/writing/"
@@ -86,14 +86,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "100m Offers Summary and Notes",
     "uri": "/booknotes/100m-offers/"
-  },
-  {
-    "breadcrumb": "David Writes \u003e Health",
-    "content": "Benefits of troubleshooting on the web BEFORE you use AI: You run into a lot of cool websites Which allows you to meet people solving the same problems as you Which opens doors to potential opportunities You stop being the middle-man for AI Sometimes you actually save time because AI often steers you down the wrong path Bonus: RTFM Read the Flipping Manual\nReading Man pages is good for your health You actually learn the ins and outs of the tools you are working with Most accurate source of information Less likely to break things",
-    "description": "Some benefits of not using AI",
-    "tags": [],
-    "title": "Why I Stopped Using AI so Much",
-    "uri": "/health/stop-using-ai/"
   },
   {
     "breadcrumb": "David Writes \u003e Tags",
@@ -484,5 +476,13 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Category :: Writing",
     "uri": "/categories/writing/"
+  },
+  {
+    "breadcrumb": "David Writes \u003e Writing",
+    "content": "My favorite and by far easiest method of writing is writing off the cuff. You get your thoughts down and spring new thoughts to life. You are finding out what you know without referencing materials.\nYou are creating out of nothing. It is pure writing and creativity folded into one. We all have a “Muse” that will give to us whenever we ask.\nAll you have to do is start writing.\nWriter’s block doesn’t exist. Writer’s Block sucks. You don’t Know what to write next. You are stuck in limbo. But are you really stuck? You really can’t Think of ANYTHING to put down next?\nWriter’s Block is a trick! Perhaps it’s An excuse cropping up to get you out of the zone.\nYour thoughts never stop. So start there. What’s The first thing that comes to mind when you read your last sentence?\nJust write that down and move on. Follow your train of thought to find out who you really are.\nAnd to find out what you really have to say.\nThe first draft is always garbage. Live it. Accept it. Once you do. It doesn’t matter what you write. Just put down whatever comes to your mind. No matter how bad it seems. You will touch up later.\nWriters block doesn’t even exist. It’s Just a concept. You aren’t writing because you can’t think of anything.\nIt’s because you are a perfectionist. You are unwilling to put down “garbage” on a piece of paper.\nJust keep going… Don’t Stop. You have set aside this time to create. And creating is what gets your blood flowing. It’s The reason you are alive.\nDistractions are going to try and stop you. They are the enemy. And this is how you win.\nStay on the course. The wind is your muse and your sail is your unrelenting determination.\nThe ocean wants to keep your from going anywhere. It can’t do this if you do not will it.\nThe conclusion doesn’t matter. You have to end your writing. But this is not the end. It is actually a new beginning for your reader. You have given them your best.\nRemind them what you said and give them a plan of what is next. You just changed a life forever. No matter how big or small of a change.\nThis is your impact. This is why you are here.",
+    "description": "Defeating writers block. Writing without a purpose.",
+    "tags": [],
+    "title": "Writing off the Cuff",
+    "uri": "/writing/writing-off-the-cuff/"
   }
 ]
