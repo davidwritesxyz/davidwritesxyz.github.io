@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "David Writes",
-    "content": "The Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\r7 Steps to Get Back on a NoFap Streak Immediately\r7 Steps to Get Back on a NoFap Streak Immediately\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.",
-    "description": "The Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\r7 Steps to Get Back on a NoFap Streak Immediately\r7 Steps to Get Back on a NoFap Streak Immediately\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.",
+    "content": "The Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.",
+    "description": "The Negative Effects of Caffeine Addiction\rThese are the negative effects of caffeine addiction.\r19 Biggest Lessons From Reading 100 Books\r19 Biggest Lessons From Reading 100 Books\r4 Ways to Quit caffeine\r4 Ways to Quit caffeine\rHow to Reduce Headaches Naturally\rHow to reduce headaches naturally by relaxing tense muscles.",
     "tags": [],
     "title": "Health",
     "uri": "/health/"
@@ -332,14 +332,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "4 Ways to Quit caffeine",
     "uri": "/health/4-ways-to-quit-caffeine/"
-  },
-  {
-    "breadcrumb": "David Writes \u003e Health",
-    "content": "Reconnect with your reason why. Is there a book or YouTube video that explained the benefits? What motivated you to start in the first place? Write down the negatives associated with porn and masturbation. And the benefits you have felt from previous attempts.\nSet a goal related to nofap. A 90 day timeline is far enough to make real progress. But not so far out that your timeline is unpredictable.\nSet up process controls. This is what you do to keep your goal from breaking down in a lapse of willpower. This includes a weekly plan, daily habits, and peer support. Make sure you track your plan and habits.. And discuss setbacks in a weekly meeting with peers.\nUse your time with purpose. Say no to anything that goes against your goals. Align your time and energy with things you enjoy doing. And other goals that you have or skills that you want to practice.\nSchedule time for important tasks. Schedule time to reconnect with your why, every day. And time to work on your plan and daily habits. Create an “Ideal Week” calendar. To live every moment with intention. See\nAli Abdaal‘s video: https://youtube.com/watch?v=6o2tm00Ar8A\u0026t=407s\nTake Ownership You are the only one who can take control of your results. Regardless of circumstances. Surround yourself with people who own their lives. Take up a Growth mindset: https://amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/ref=sr_1_1?sr=8-1\nTake your commitments seriously. How you do one thing is how you do everything. People will notice. And most importantly, you will notice. This creates a flywheel for success and will spill over to all areas of your life.",
-    "description": "7 Steps to Get Back on a NoFap Streak Immediately",
-    "tags": [],
-    "title": "7 Steps to Get Back on a NoFap Streak Immediately",
-    "uri": "/health/7-steps-to-get-back-on-a-nofap-streak-immediately/"
   },
   {
     "breadcrumb": "David Writes \u003e book notes",

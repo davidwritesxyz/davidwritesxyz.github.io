@@ -1,206 +1,203 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.davidwrites.xyz.com/health/</loc>
+    <loc>http://localhost:1313/health/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/fitness/</loc>
+    <loc>http://localhost:1313/fitness/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/parenting/</loc>
+    <loc>http://localhost:1313/parenting/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/poetry/</loc>
+    <loc>http://localhost:1313/poetry/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/productivity/</loc>
+    <loc>http://localhost:1313/productivity/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/</loc>
+    <loc>http://localhost:1313/recipes/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/relationships/</loc>
+    <loc>http://localhost:1313/relationships/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/short-stories/</loc>
+    <loc>http://localhost:1313/short-stories/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/writing/</loc>
+    <loc>http://localhost:1313/writing/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/100m-offers/</loc>
+    <loc>http://localhost:1313/booknotes/100m-offers/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/tags/articles/</loc>
+    <loc>http://localhost:1313/tags/articles/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/categories/health/</loc>
+    <loc>http://localhost:1313/categories/health/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/theeasywaytoquitcaffeine/</loc>
+    <loc>http://localhost:1313/booknotes/theeasywaytoquitcaffeine/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/health/the-negative-effects-of-caffeine-addiction/</loc>
+    <loc>http://localhost:1313/health/the-negative-effects-of-caffeine-addiction/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/tribes/</loc>
+    <loc>http://localhost:1313/booknotes/tribes/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/built-to-move/</loc>
+    <loc>http://localhost:1313/booknotes/built-to-move/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/tags/non-fiction/</loc>
+    <loc>http://localhost:1313/tags/non-fiction/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/bliss-of-the-celibate/</loc>
+    <loc>http://localhost:1313/booknotes/bliss-of-the-celibate/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/caffeineblues/</loc>
+    <loc>http://localhost:1313/booknotes/caffeineblues/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/thewillpowerinstinct/</loc>
+    <loc>http://localhost:1313/booknotes/thewillpowerinstinct/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/nonviolentcommunication/</loc>
+    <loc>http://localhost:1313/booknotes/nonviolentcommunication/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/milliondollarweekend/</loc>
+    <loc>http://localhost:1313/booknotes/milliondollarweekend/</loc>
     <lastmod>2025-08-02T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/meditations/</loc>
+    <loc>http://localhost:1313/booknotes/meditations/</loc>
     <lastmod>2025-07-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/anythingyouwant/</loc>
+    <loc>http://localhost:1313/booknotes/anythingyouwant/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/i-will-teach-you-to-be-rich/</loc>
+    <loc>http://localhost:1313/booknotes/i-will-teach-you-to-be-rich/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/dopaminenation/</loc>
+    <loc>http://localhost:1313/booknotes/dopaminenation/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/goodinside/</loc>
+    <loc>http://localhost:1313/booknotes/goodinside/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/therelationshiphandbook/</loc>
+    <loc>http://localhost:1313/booknotes/therelationshiphandbook/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/your-brain-on-porn/</loc>
+    <loc>http://localhost:1313/booknotes/your-brain-on-porn/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/the12weekyear/</loc>
+    <loc>http://localhost:1313/booknotes/the12weekyear/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/theblogstartup/</loc>
+    <loc>http://localhost:1313/booknotes/theblogstartup/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/the-magic-of-thinking-big/</loc>
+    <loc>http://localhost:1313/booknotes/the-magic-of-thinking-big/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/thepowerofpositivedogtraining/</loc>
+    <loc>http://localhost:1313/booknotes/thepowerofpositivedogtraining/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/thepsychologyofmoney/</loc>
+    <loc>http://localhost:1313/booknotes/thepsychologyofmoney/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/123magic/</loc>
+    <loc>http://localhost:1313/booknotes/123magic/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/health/19-biggest-lessons-from-reading-100-books/</loc>
+    <loc>http://localhost:1313/health/19-biggest-lessons-from-reading-100-books/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/health/4-ways-to-quit-caffeine/</loc>
+    <loc>http://localhost:1313/health/4-ways-to-quit-caffeine/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/health/7-steps-to-get-back-on-a-nofap-streak-immediately/</loc>
+    <loc>http://localhost:1313/booknotes/bookgraveyard/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/bookgraveyard/</loc>
+    <loc>http://localhost:1313/booknotes/books-ive-read/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/books-ive-read/</loc>
+    <loc>http://localhost:1313/recipes/creamy-jalepeno-sauce/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/creamy-jalepeno-sauce/</loc>
+    <loc>http://localhost:1313/recipes/easy-mango-salsa-quinoa-bowl/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/easy-mango-salsa-quinoa-bowl/</loc>
+    <loc>http://localhost:1313/booknotes/fiction/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/fiction/</loc>
+    <loc>http://localhost:1313/health/how-to-reduce-headaches-naturally/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/health/how-to-reduce-headaches-naturally/</loc>
+    <loc>http://localhost:1313/recipes/marry_me_tofu/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/marry_me_tofu/</loc>
+    <loc>http://localhost:1313/writing/nat-eliasons-seo-course/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/writing/nat-eliasons-seo-course/</loc>
+    <loc>http://localhost:1313/categories/recipes/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/categories/recipes/</loc>
+    <loc>http://localhost:1313/recipes/seitan/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/seitan/</loc>
+    <loc>http://localhost:1313/recipes/tempeh-bacon/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/tempeh-bacon/</loc>
+    <loc>http://localhost:1313/booknotes/the-truth/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/booknotes/the-truth/</loc>
+    <loc>http://localhost:1313/recipes/tofu-scramble/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/tofu-scramble/</loc>
+    <loc>http://localhost:1313/recipes/vegan-raising-canes/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/vegan-raising-canes/</loc>
+    <loc>http://localhost:1313/recipes/vegan-tofu-quesadilla/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/recipes/vegan-tofu-quesadilla/</loc>
+    <loc>http://localhost:1313/categories/writing/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/categories/writing/</loc>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz.com/writing/writing-off-the-cuff/</loc>
+    <loc>http://localhost:1313/writing/writing-off-the-cuff/</loc>
   </url>
 </urlset>
