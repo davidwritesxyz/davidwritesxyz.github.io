@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.davidwrites.xyz.com/</link>
     <description>Everything</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.davidwrites.xyz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health</title>
-      <link>http://localhost:1313/health/</link>
+      <link>https://www.davidwrites.xyz.com/health/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/health/</guid>
+      <guid>https://www.davidwrites.xyz.com/health/</guid>
       <description>The Negative Effects of Caffeine Addiction&#xD;These are the negative effects of caffeine addiction.&#xD;19 Biggest Lessons From Reading 100 Books&#xD;19 Biggest Lessons From Reading 100 Books&#xD;4 Ways to Quit caffeine&#xD;4 Ways to Quit caffeine&#xD;How to Reduce Headaches Naturally&#xD;How to reduce headaches naturally by relaxing tense muscles.</description>
     </item>
     <item>
       <title>Fitness</title>
-      <link>http://localhost:1313/fitness/</link>
+      <link>https://www.davidwrites.xyz.com/fitness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fitness/</guid>
+      <guid>https://www.davidwrites.xyz.com/fitness/</guid>
       <description></description>
     </item>
     <item>
       <title>Parenting</title>
-      <link>http://localhost:1313/parenting/</link>
+      <link>https://www.davidwrites.xyz.com/parenting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/parenting/</guid>
+      <guid>https://www.davidwrites.xyz.com/parenting/</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry</title>
-      <link>http://localhost:1313/poetry/</link>
+      <link>https://www.davidwrites.xyz.com/poetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/poetry/</guid>
+      <guid>https://www.davidwrites.xyz.com/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/productivity/</link>
+      <link>https://www.davidwrites.xyz.com/productivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/productivity/</guid>
+      <guid>https://www.davidwrites.xyz.com/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://www.davidwrites.xyz.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://www.davidwrites.xyz.com/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/recipes/</link>
+      <link>https://www.davidwrites.xyz.com/recipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recipes/</guid>
+      <guid>https://www.davidwrites.xyz.com/recipes/</guid>
       <description>Creamy Jalepeno Sauce&#xD;Creamy Jalepeno Sauce&#xD;Easy Mango Salsa Quinoa Bowl&#xD;Easy Mango Salsa Quinoa Bowl&#xD;Marry Me Tofu&#xD;Marry Me Tofu&#xD;Seitan&#xD;Seitan&#xD;Tempeh Bacon&#xD;Tempeh Bacon&#xD;Tofu scramble&#xD;Tofu scramble&#xD;Vegan raising canes&#xD;Vegan raising canes&#xD;Vegan Tofu Quesadilla&#xD;Vegan Tofu Quesadilla</description>
     </item>
     <item>
       <title>Relationships</title>
-      <link>http://localhost:1313/relationships/</link>
+      <link>https://www.davidwrites.xyz.com/relationships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/relationships/</guid>
+      <guid>https://www.davidwrites.xyz.com/relationships/</guid>
       <description></description>
     </item>
     <item>
       <title>Short Stories</title>
-      <link>http://localhost:1313/short-stories/</link>
+      <link>https://www.davidwrites.xyz.com/short-stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/short-stories/</guid>
+      <guid>https://www.davidwrites.xyz.com/short-stories/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/writing/</link>
+      <link>https://www.davidwrites.xyz.com/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writing/</guid>
+      <guid>https://www.davidwrites.xyz.com/writing/</guid>
       <description>Nat Eliason’s SEO course&#xD;Nat Eliason’s SEO course&#xD;Writing off the Cuff&#xD;Defeating writers block. Writing without a purpose.</description>
     </item>
   </channel>
